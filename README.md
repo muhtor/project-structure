@@ -1,4 +1,4 @@
-# Backend Kennekt development
+# Backend development
 This is a Django project which primarily builds APIs using Django REST Framework.
 
 ### How to clone project
