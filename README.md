@@ -1,11 +1,5 @@
 # Backend development
-This is a Django project which primarily builds APIs using Django REST Framework.
 
-### How to clone project
-
-```
-git clone https://gitlab.com/Ahrorbek/kennekt-beckend-front-end.git
-```
 ## Guide for developers
 Developers do not have direct access to master branch. Only the maintainer has access to master. Develops need to push to the branch 'dev'. The maintainer merges 'dev' with 'master' if need be.
 
